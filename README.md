@@ -1,10 +1,16 @@
 # Portfolio
 Lucero Website Portfolio 
+
+
 For this project I had to make a website from scratch. 
+
+
+
 Following the accptance criteria given to me. 
 
-![Screenshot 2021-10-23 210746](https://user-images.githubusercontent.com/92271470/140010163-f57e94e9-5ed1-4aa0-aa83-e729522fea3a.png)
 
+
+![Screenshot (21)](https://user-images.githubusercontent.com/92271470/140010322-99939c8c-c27b-4c37-8b47-0eb80d3a015b.png)
 
 
 This is a snapshot of my Portfolio:
